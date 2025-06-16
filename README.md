@@ -3,6 +3,7 @@ This project performs **sentiment analysis** on Twitter data using Natural Langu
 
 ## Summary
 •	Analyzed 1.6M+ tweets from the Sentiment140 dataset to classify sentiment into positive, negative, and neutral categories.
+
 •	Performed advanced NLP preprocessing (tokenization, lemmatization, stop word removal, TF-IDF) to prepare noisy social media text for modeling. Used SMOTE and class weighting to address data imbalance.
 
 ## Tools & Libraries Used
